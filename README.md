@@ -45,7 +45,7 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Angular`, `TypeScript`, `AWS`, `Ionic`, `React` \
 <br/>
 
-[<img align="left" height="42px" width="94px" alt="MedProjects" src="https://ibb.co/fDmKMmq"/>](https://medprojects.com/)
+[<img align="left" height="42px" width="94px" alt="MedProjects" src="https://i.ibb.co/1zHpZH7/medprojects.png"/>](https://medprojects.com/)
 
 **Full Stack Developer** \
 [**MedProjects**](https://medprojects.com/) • Part Time \
