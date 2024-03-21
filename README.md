@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=DarrelMendoza&style=for-the-badge&base=20000&color=blue">
 </a>
 
-## I'm a Full Stack Developer, Business Enthusiast and Entrepreneur!
+## I'm a Full Stack Developer and Freelancer!
 
 <img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
@@ -34,7 +34,7 @@
 <br>
 
          
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" alt="React" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" align="left" alt="Angular" width="40" height="40"/> </a> 
@@ -42,9 +42,9 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" alt="Typescript" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="NodeJS" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" align="left" alt="Firebase" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="Postgres" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" align="left" alt="Github" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" align="left" alt="Gitlab" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="Postgres" width="40" height="40"/> </a>
 
 
 <br>
@@ -52,7 +52,7 @@
 
 
          
-## 📊 My GitHub Stats
+### 📊 My GitHub Stats
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=material-palenight" alt="Martin's GitHub Stats" />
 </a>
