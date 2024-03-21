@@ -1,4 +1,4 @@
-<h1>Hi there, I'm  <a href="https://www.linkedin.com/in/darrelmendoza/">Darrel Mendoza!</a>
+<h1>Hi there, I'm  <a href="https://www.linkedin.com/in/darrelmendoza/">Darrel Mendoza</a>
          <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -17,8 +17,8 @@
 
 - 🔭 I've been working as a Software Developer for over 2 years now!
 - 🌱 Currently working as a Full Stack Engineer for Talino Venture Labs.
-- 👯 I am looking for more opportunities to enhance my skills and provide value.
-- 🥅 2024 Goals: Seek out more opportunities and apply myself
+- 👯 I am looking for more opportunities to meet and connect with people in the industry.
+- 🥅 2024 Goals: Upskill and provide more value & services.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1l9BF9aa4M9e7pUbsSB21TywCcSnoePo8/view">resume</a>.
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤
