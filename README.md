@@ -37,8 +37,9 @@
 ### 🛠️ Languages and Tools:
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" alt="React" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" align="left" alt="Angular" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" align="left" alt="Next JS" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" align="left" alt="Angular" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" alt="Tailwind" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" align="left" alt="Next JS" width="100" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="PHP" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" alt="Typescript" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="NodeJS" width="40" height="40"/></a>
