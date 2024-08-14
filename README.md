@@ -54,7 +54,7 @@
          
 ### 📊 My GitHub Stats
 
-  <img align="center" src="https://readme-stats-psi-opal.vercel.app/api?username=DarrelMendoza&theme=material-palenight&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&show_icons=true" alt="Darrel's GitHub Stats" />
+  <img align="center" src="https://readme-stats-psi-opal.vercel.app/api?username=DarrelMendoza&theme=material-palenight&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&show_icons=true" alt="Darrel's GitHub Stats" />
 
 
 
