@@ -40,7 +40,7 @@
 <a href="#" target="_blank"> <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" align="left" alt="Next JS" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="PHP" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" alt="Typescript" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="NodeJS" width="40" height="40"/></a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" align="left" alt="NodeJS" width="40" height="40"/></a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" align="left" alt="Firebase" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="Postgres" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" align="left" alt="Github" width="40" height="40"/> </a>
