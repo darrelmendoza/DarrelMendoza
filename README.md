@@ -19,7 +19,7 @@
 - 🌱 Currently working as a Full Stack Engineer for Talino Venture Labs.
 - 👯 I am looking for more opportunities to meet and connect with people in the industry.
 - 🥅 2024 Goals: Upskill and provide more value & services.
-- 📙 Check out my <a href="https://drive.google.com/file/d/1l9BF9aa4M9e7pUbsSB21TywCcSnoePo8/view">resume</a>.
+- 📙 Check out my <a href="https://drive.google.com/file/d/1ktT8lqEuyVe8tmyRWf1U4bvQImE1jFyJ/view?usp=sharing">resume</a>.
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤
 
