@@ -64,7 +64,7 @@
 
 <p> </p>
 
-![GitHub Stats](https://github-readme-stats-2-hazel.vercel.app/?user=darrelmendoza&theme=material-palenight&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats-ten-green-97.vercel.app/?user=DarrelMendoza&theme=material-palenight&count_private=true)
 
 
 
