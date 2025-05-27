@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=DarrelMendoza&style=for-the-badge&base=20000&color=blue">
 </a>
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack Developer and UI/UX Designer!
 
 <img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
