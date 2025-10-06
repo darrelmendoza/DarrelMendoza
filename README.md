@@ -15,8 +15,8 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I've been working as a Software Developer for over 4 years now!
-- 🌱 Currently working as a Full Stack Engineer for Talino Venture Labs.
+- 🔭 I've been working as a Full Stack Developer for over 4 years now.👨‍💻
+- 🌱 Currently building something!🚀
 - 👯 I am looking for more opportunities to meet and connect with people in the industry.
 - 🥅 2025 Goals: Learn more, provide more value and solve more problems.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1YW4Q3DqSSTqmpGch6SyhWz5YrGWd8Ee9/view?usp=sharing">resume</a>.
