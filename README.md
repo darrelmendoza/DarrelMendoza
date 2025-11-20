@@ -35,7 +35,6 @@
 ### 🛠️ Languages and Tools:
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" alt="React" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" align="left" alt="Angular" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" alt="Tailwind" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" align="left" alt="Next JS" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="PHP" width="40" height="40"/> </a> 
